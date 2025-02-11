@@ -33,7 +33,7 @@ This repository contains a Python project that fetches live cryptocurrency data 
 2. **Install Required Python Packages:**
 
    ```bash
-   pip install pandas schedule pycoingecko gspread gspread-dataframe oauth2client
+   pip install -r requirements.txt
    ```
 
 ## Configuration
